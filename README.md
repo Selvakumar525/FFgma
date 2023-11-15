@@ -413,7 +413,8 @@ color: #110101;
 
 ## OUTPUT:
 
-![image](https://github.com/rizwanrayyan/Figma/assets/121215820/01620987-eb03-4115-8892-a60dc5cecf73)
+![image](https://github.com/Selvakumar525/FFgma/assets/120643262/7ff2ed5b-4b2b-4cd3-8201-bf62ff7170f9)
+
 
 
 
