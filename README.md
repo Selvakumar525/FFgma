@@ -28,10 +28,9 @@ Validate the HTML and CSS code.
 ### Step 6:
 
 Publish the website in the given URL.
+
 ## DESIGN TOOL:
-Figma
-# PROGRAM:
-~~~
+```
 /* HOME PAGE */
 
 box-sizing: border-box;
@@ -45,7 +44,7 @@ border: 1px solid #F7BA1F;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 
-/* AUTONOMOUS INSTITUTION */
+/* NIRF RANKED AUTONOMOUS INSTITUTION */
 
 position: absolute;
 width: 406px;
@@ -355,7 +354,7 @@ color: #110101;
 
 
 
-/* AI&DS */
+/* AIDS */
 
 position: absolute;
 width: 124px;
@@ -374,7 +373,7 @@ color: #110101;
 
 
 
-/* AI&ML */
+/* AIML */
 
 position: absolute;
 width: 124px;
@@ -410,28 +409,12 @@ text-align: center;
 
 color: #110101;
 
+```
 
-
-
-/* CSE(IOT) */
-
-position: absolute;
-width: 124px;
-height: 36px;
-left: 162px;
-top: 426px;
-
-font-family: 'Inknut Antiqua';
-font-style: normal;
-font-weight: 400;
-font-size: 19px;
-line-height: 49px;
-text-align: center;
-
-color: #110101;
-~~~
 ## OUTPUT:
-![image](https://github.com/Selvakumar525/FFgma/assets/120643262/ed3e668a-738d-458d-a48e-559c75ff3d05)
+
+![image](https://github.com/rizwanrayyan/Figma/assets/121215820/01620987-eb03-4115-8892-a60dc5cecf73)
+
 
 
 ## RESULT:
